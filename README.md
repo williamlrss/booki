@@ -1,2 +1,2 @@
-# booki
-HTML &amp; CSS _ Figma design integration _ no library
+# Booki
+P2 OpenClassrooms - intégration de maquette en HTML &amp; CSS
